@@ -6,12 +6,6 @@ containers, bancos SQL Server e segurança.
 
 Gosto de transformar processo manual e frágil em rotina automatizada e auditável.
 
-**Stack no dia a dia**
-`Windows Server` `Active Directory` `GPO` `WSUS` `Hyper-V` `Ubuntu Server`
-`Docker` `Docker Compose` `Portainer` `Nginx Proxy Manager`
-`SQL Server` `T-SQL` `PowerShell` `Python`
-
-📫 [LinkedIn](https://www.linkedin.com/in/mateuscostadeveloper)
 ### 🛠️ Stack
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -22,8 +16,14 @@ Gosto de transformar processo manual e frágil em rotina automatizada e auditáv
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+`Active Directory` `GPO` `WSUS` `Hyper-V` `Docker Compose` `Portainer` `T-SQL` `Nginx Proxy Manager`
+
 ### 📚 Estudando
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/mateuscostadeveloper)
