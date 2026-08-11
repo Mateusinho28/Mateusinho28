@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**Mateusinho28/Mateusinho28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Coordenador de TI em uma operadora de saúde, onde respondo de ponta a ponta pela
+infraestrutura: servidores físicos e virtualização, Active Directory, plataforma de
+containers, bancos SQL Server e segurança.
 
-Here are some ideas to get you started:
+Gosto de transformar processo manual e frágil em rotina automatizada e auditável.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack no dia a dia**
+`Windows Server` `Active Directory` `GPO` `WSUS` `Hyper-V` `Ubuntu Server`
+`Docker` `Docker Compose` `Portainer` `Nginx Proxy Manager`
+`SQL Server` `T-SQL` `PowerShell` `Python`
+
+**Estudando agora**
+Microsoft Azure (AZ-104) · Terraform
+
+📫 [LinkedIn](https://www.linkedin.com/in/mateuscostadeveloper)
